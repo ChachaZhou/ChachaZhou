@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 I’m currently working on crypto.com
+## 💻 I’m currently working on <crypto.com>
 
 ## 🤔 I’m currently learning Web3
 
@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me?
 
-- github：<https://github.com/chachaxw>
+- Github：<https://github.com/chachaxw>
+- Linkedin: <https://www.linkedin.com/in/chacha-zhou-76baa5a7>
 - 知乎：<https://www.zhihu.com/people/chachaxw>
-- email: chachazw@gmail.com
+- Email: chachazw@gmail.com
 
 ## 💁🏻 Stats
 

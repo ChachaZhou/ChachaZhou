@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me?
 
-- Github：<https://github.com/chachaxw>
+- Github: <https://github.com/chachaxw>
 - Linkedin: <https://www.linkedin.com/in/chacha-zhou-76baa5a7>
-- 知乎：<https://www.zhihu.com/people/chachaxw>
+- Twitter: https://twitter.com/ChachaChou18
+- Zhihu: <https://www.zhihu.com/people/chachaxw>
 - Email: chachazw@gmail.com
+- WeChat: C867571123
 
 ## 💁🏻 Stats
 

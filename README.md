@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 💻 I’m currently working on <crypto.com>
 
+## 🤔 I’m currently learning Web3
+
 ## 🧮 My Stack
 
 <!-- %23323330 -->
